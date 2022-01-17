@@ -1,3 +1,5 @@
-# gitdemo
+Hello git world
 
-lab pratice
+A Respository to Demostrate Git
+
+Adding a string of text to demonstrate changes from the remote respository
